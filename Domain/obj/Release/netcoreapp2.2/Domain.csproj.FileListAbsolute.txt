@@ -1,0 +1,8 @@
+/Users/agit/Documents/Personal/RandevuNokta/WebApp/WebSite/RandevuNoktaClient/Domain/bin/Release/netcoreapp2.2/Domain.deps.json
+/Users/agit/Documents/Personal/RandevuNokta/WebApp/WebSite/RandevuNoktaClient/Domain/bin/Release/netcoreapp2.2/Domain.dll
+/Users/agit/Documents/Personal/RandevuNokta/WebApp/WebSite/RandevuNoktaClient/Domain/bin/Release/netcoreapp2.2/Domain.pdb
+/Users/agit/Documents/Personal/RandevuNokta/WebApp/WebSite/RandevuNoktaClient/Domain/obj/Release/netcoreapp2.2/Domain.csprojAssemblyReference.cache
+/Users/agit/Documents/Personal/RandevuNokta/WebApp/WebSite/RandevuNoktaClient/Domain/obj/Release/netcoreapp2.2/Domain.AssemblyInfoInputs.cache
+/Users/agit/Documents/Personal/RandevuNokta/WebApp/WebSite/RandevuNoktaClient/Domain/obj/Release/netcoreapp2.2/Domain.AssemblyInfo.cs
+/Users/agit/Documents/Personal/RandevuNokta/WebApp/WebSite/RandevuNoktaClient/Domain/obj/Release/netcoreapp2.2/Domain.dll
+/Users/agit/Documents/Personal/RandevuNokta/WebApp/WebSite/RandevuNoktaClient/Domain/obj/Release/netcoreapp2.2/Domain.pdb
